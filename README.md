@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Portfolio Website**
 
-- 🌱 I’m currently learning **React.js, React Native, Springboot, Express.js, Java, Typescript, Tailwind, Cloud Computing**
+- 🌱 I’m currently learning **React.js, React Native, Springboot, Express.js, Java, PHP, Typescript, Tailwind, Cloud Computing**
 
 - 💬 Ask me about **MERN, React, HTML5, CSS3**
 
