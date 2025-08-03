@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React.js, React Native, Springboot, Express.js, Java, PHP, Typescript, Tailwind, Cloud Computing**
 
-- 💬 Ask me about **MERN, React, HTML5, CSS3**
+- 💬 Ask me about **MERN stack, HTML5, CSS3**
 
 - 📫 How to reach me **adhityamaulanawijaya11@gmail.com**
 
