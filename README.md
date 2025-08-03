@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adhitya Maulana Wijya</h1>
+<h1 align="center">Hi 👋, I'm Adhitya Maulana Wijaya</h1>
 <h3 align="center">I am a passionate and driven professional with a keen interest in frontend web development, cloud computing, and software engineering. With a focus on building dynamic, user-centered experiences, I am dedicated to continuous learning and staying updated with the latest industry trends. I am always excited to tackle new challenges, develop my skills, and contribute meaningfully to innovative projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adhityamaulana11&label=Profile%20views&color=0e75b6&style=flat" alt="adhityamaulana11" /> </p>
