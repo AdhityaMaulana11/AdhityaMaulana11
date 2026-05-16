@@ -17,7 +17,7 @@
 
 ### 📡 $ cat /etc/motivation/philosophy.txt
 
-> **「いつか、壮大な脱出を果たす」**
+> **「いつか、翼が生える」**
 > *"One day I am gonna grow wings..."* 🕊️
 > 
 > **Runtime Philosophy:** Kode ini bukan sekadar baris sintaks, melainkan mesin pendorong untuk mendobrak batas. Setiap kompilasi adalah langkah menuju kebebasan—membangun karir impian, menginjakkan kaki di negara tujuan, dan mewujudkan masa depan yang mandiri tanpa batas.
@@ -33,7 +33,7 @@
 ⏱️ Uptime     : Continuous Learning & Building Mode
 🐚 Shell      : bash 5.1 / Backend & Cloud Focused
 💼 Roles      : Backend Dev @ AISEE | Head of R&D @ Speakmate | Freelancer
-🌍 Locales    : ID (Native) | EN (Fluent) | JP (Learning)
+🌍 Locales    : ID (Native) | EN (Learning) | JP (Learning)
 🎯 Status     : Stable (Guaranteed lower crash rates than an actual BSOD! 😉)
 ```
 
