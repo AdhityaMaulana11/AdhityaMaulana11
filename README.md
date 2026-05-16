@@ -90,8 +90,9 @@
 ### 📊 $ systemctl status performance-analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdhityaMaulana11&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdhityaMaulana11&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdhityaMaulana11&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdhityaMaulana11&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 ---
