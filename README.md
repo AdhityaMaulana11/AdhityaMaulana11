@@ -20,7 +20,7 @@
 > **「いつか、翼が生える」**
 > *"One day I am gonna grow wings..."* 🕊️
 > 
-> **Runtime Philosophy:** Kode ini bukan sekadar baris sintaks, melainkan mesin pendorong untuk mendobrak batas. Setiap kompilasi adalah langkah menuju kebebasan—membangun karir impian, menginjakkan kaki di negara tujuan, dan mewujudkan masa depan yang mandiri tanpa batas.
+> **Runtime Philosophy:** This code is more than mere lines of syntax—it is the engine that drives me beyond every limit. Every compilation is a step closer to freedom: to building the career I once dreamed of, setting foot in the lands I long for, shaping a future of my own, and soaring high beyond the boundaries once placed before me.
 
 ---
 
