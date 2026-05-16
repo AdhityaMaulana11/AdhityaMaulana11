@@ -1,105 +1,102 @@
-# 🟦 COMPILING: BLUE_SCREEN_BOY_OS v2.0 🚀
+# 🟦 BLUE_SCREEN_BOY_OS [Version 2.5.0-LATEST]
+
+```shell
+██████╗ ██╗     ██╗   ██╗███████╗    ███████╗ ██████╗██████╗ ███████╗███████╗███╗   ██╗
+██╔══██╗██║     ██║   ██║██╔════╝    ██╔════╝██╔════╝██╔══██╗██╔════╝██╔════╝████╗  ██║
+██████╔╝██║     ██║   ██║█████╗      ███████╗██║     ██████╔╝█████╗  █████╗  ██╔██╗ ██║
+██╔══██╗██║     ██║   ██║██╔══╝      ╚════██║██║     ██╔══██╗██╔══╝  ██╔══╝  ██║╚██╗██║
+██████╔╝███████╗╚██████╔╝███████╗    ███████║╚██████╗██║  ██║███████╗███████╗██║ ╚████║
+╚══════╝ ╚══════╝ ╚══════╝ ╚══════╝    ╚══════╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═══╝
+```
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=terminal&color=0052cc&height=150&section=header&text=System.init%28%22BlueScreenBoy%22%29&fontSize=30&fontColor=ffffff" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0078D7&center=true&vCenter=true&width=650&lines=Adhitya+Maulana+Wijaya;Backend+Developer+@+AISEE;Head+of+R%26D+@+Speakmate;Building+Scalable+Architectures;Optimizing+Runtime+Environments" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0078D7&center=true&vCenter=true&width=650&lines=Initializing+kernel...;Loading+Backend+Architectures...;One+day+I+am+gonna+grow+wings...;Welcome+to+BlueScreenBoy+Terminal" alt="Typing SVG" />
 </p>
 
 ---
 
-### 📡 SYSTEM CORE PHILOSOPHY
+### 📡 $ cat /etc/motivation/philosophy.txt
 
 > **「いつか、壮大な脱出を果たす」**
 > *"One day I am gonna grow wings..."* 🕊️
 > 
-> **Runtime Meaning:** Kode ini bukan sekadar baris sintaks, melainkan mesin pendorong untuk mendobrak batas. Setiap kompilasi adalah langkah menuju kebebasan—membangun karir impian, menginjakkan kaki di negara tujuan, dan mewujudkan masa depan yang mandiri.
+> **Runtime Philosophy:** Kode ini bukan sekadar baris sintaks, melainkan mesin pendorong untuk mendobrak batas. Setiap kompilasi adalah langkah menuju kebebasan—membangun karir impian, menginjakkan kaki di negara tujuan, dan mewujudkan masa depan yang mandiri tanpa batas.
 
 ---
 
-## 🛠️ System Specifications (About Me)
+### 💻 $ neofetch --profile bluescreenboy
 
-```json
-{
-  "kernel": {
-    "sys_name": "Adhitya Maulana Wijaya",
-    "build_tag": "Blue Screen Boy",
-    "status": "Undergraduate Informatics Engineering"
-  },
-  "active_routines": [
-    {
-      "role": "Backend Developer",
-      "organization": "AISEE (The Association of Indonesian Scholars of English Education)"
-    },
-    {
-      "role": "Head of Research & Development",
-      "organization": "Speakmate"
-    },
-    {
-      "role": "Freelance Software Engineer",
-      "scope": ["Fullstack", "Mobile", "APIs"]
-    }
-  ]
-}
+```text
+🌐 OS         : BlueScreenBoyOS v2.5.0 x86_64
+💻 Host       : Undergraduate Informatics Engineering
+⚡ Kernel     : Radiohead_Let_Down_Core.sys
+⏱️ Uptime     : Continuous Learning & Building Mode
+🐚 Shell      : bash 5.1 / Backend & Cloud Focused
+💼 Roles      : Backend Dev @ AISEE | Head of R&D @ Speakmate | Freelancer
+🌍 Locales    : ID (Native) | EN (Fluent) | JP (Learning)
+🎯 Status     : Stable (Guaranteed lower crash rates than an actual BSOD! 😉)
 ```
 
 ---
 
-## 🗃️ Runtime Logs & Repositories
+### 🗃️ $ ls -R /home/bluescreenboy/projects
 
-### 🔓 Public Open-Source Modules
-* 🎵 **[TaskTunes](https://github.com/AdhityaMaulana11/TaskTunes)** - Aplikasi Android Pomodoro berbasis Kotlin dengan pemutar musik kustom untuk optimalisasi fokus thread manusia.
-* 🌌 **[WishVault-CRUD-PHP](https://github.com/AdhityaMaulana11/WishVault-CRUD-PHP)** - Portal berbasis PHP untuk melacak, mengelola, dan memproyeksikan impian masa depan agar tetap terstruktur.
-* 📄 **[Blue-Screen-Boy Portfolio](https://github.com/AdhityaMaulana11/Blue-Screen-Boy_Portfolio)** - Arsitektur utama di balik website portofolio personal saya.
-
-### 🔒 Encrypted Enterprise Logs (Private Repositories)
-* 📡 **AISEE Core Services** - Merancang dan mengoptimalkan arsitektur backend untuk mendukung jaringan akademisi bahasa Inggris di Indonesia.
-* 🗣️ **Speakmate Engine** - Memimpin riset dan pengembangan (*R&D*) modul inovatif untuk platform Speakmate guna meningkatkan retensi dan interaksi sistem.
-
----
-
-## 🧰 Installed Dependencies (Tech Stack)
-
-### ⚙️ Backend & Cloud Environments
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-</p>
-
-### 🎨 Frontend & UI Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
-### 💾 Database & Utilities
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+```text
+/home/bluescreenboy/projects
+├── 🔓 public_src/
+│   ├── 🎵 TaskTunes/ ----------> [Kotlin] Android Pomodoro app with custom music player core
+│   ├── 🌌 WishVault/ ----------> [PHP] Life dream manager with automated progress tracker
+│   └── 📄 Portfolio/ ----------> [TypeScript] Main personal system gateway & portfolio UI
+│
+└── 🔒 private_secure/ (Encrypted Enterprise Logs)
+    ├── 📡 AISEE_Backend/ ------> Infrastructure for The Association of Indonesian Scholars of English Education
+    └── 🗣️ Speakmate_R&D/ ------> Leading research and development modules for user retention
+```
 
 ---
 
-## 📊 System Performance (GitHub Analytics)
+### 🧰 $ apt list --installed | grep "core-dependencies"
+
+**⚙️ Backend & Cloud Environments**
+```shell
+# Loaded Modules:
+[OK] Node.js       # Runtime Environment
+[OK] Express.js    # Web Framework
+[OK] Spring_Boot   # Enterprise Java Core
+[OK] OpenJDK_Java  # Backend System
+[OK] PHP_Engine    # Web Scripting
+[OK] Google_Cloud  # Cloud Infrastructure
+```
+
+**🎨 Frontend & UI Frameworks**
+```shell
+# Render Engines:
+[OK] React.js      # Web Interfaces
+[OK] React_Native  # Mobile Deployments
+[OK] TypeScript    # Type-Safe JavaScript
+[OK] Tailwind_CSS  # Modern Styling
+```
+
+**💾 Database Clusters**
+```shell
+# Stored Logs:
+[OK] MySQL         # Relational DB
+[OK] MongoDB       # Document DB
+[OK] Git           # Distributed Version Control
+```
+
+---
+
+### 📊 $ systemctl status performance-analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdhityaMaulana11&show_icons=true&theme=react&bg_color=051630&title_color=00A3FF&text_color=FFFFFF&icon_color=00A3FF" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdhityaMaulana11&layout=compact&theme=react&bg_color=051630&title_color=00A3FF&text_color=FFFFFF&icon_color=00A3FF" alt="Top Langs" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AdhityaMaulana11&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdhityaMaulana11&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
-## 🔌 Remote Connection Ports (Contact)
+### 🔌 $ ssh connect@bluescreenboy.dev
 
 <p align="center">
   <a href="https://blue-screen-boy-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0052cc?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
